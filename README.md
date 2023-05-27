@@ -3,7 +3,7 @@ Java based game build on pure OOPs.
 
 This is an street fighter game 
 2 player 
-where player is cammy and player 2 is ken
+where player 1 is cammy and player 2 is ken
 moves for cammy:-
 walk left : A
 walk right: D
